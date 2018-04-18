@@ -1,0 +1,13 @@
+{
+  "name": "vuepress-tpl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^0.5.1"
+  }
+}
